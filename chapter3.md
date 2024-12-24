@@ -57,19 +57,30 @@ To prevent misunderstanding and assumption about requirements, it is essential t
 
 ### Roles and Responsibilities
 **Manager:** Decides the product under review, staff involved in it and time of review
+
 **Author:** Creates Product under review and Fixes it if necessary after review
+
 **Moderator:** Also Known as Facilitator. Manages review meeting which includes mediation, time management and a safe environment where everyone can contribute
+
 **Scribe:** Also known as Recorder. Collates and records Anomalies, records review information
+
 **Reviewer:** Performs review. A Subject matter expert or someone from the same team or another team or stakeholder
+
 **Review Leader:** More similar to Manager, Takes overall responsibility of the review process
+
 
 ### Review Types
 A product can be reviewed at initial by a Informal process and then by a formal one.
 Review types are,
+
 **Informal Review:** Objective - detecting anomalies. Doesn't have a formal process or defined approach
+
 **Walkthrough:** Objective - Evaluating quality of the product, build confident on the build, educate stakeholders, gain consensus, generate new ideas, motivate to find more anomalies. Lead by the author and the reviewers might perform a individual review before walkthrough - which is not mandate
+
 **Technical Review:** Objective - to gain consensus and to take decision on a technical issue. The objective also includes to detect anomalies, evaluate quality, gain confidence, generate ideas and motivate the author to find more anomalies. Led by Moderator and performed by technically qualified reviewers.
+
 **Inspection:** The more formal review. Objective - find more anomalies. Other objectives are similar to tech review and walkthrough which is to evaluate quality, gain confidence, generate ideas and motivate the author to find more anomalies. In Inspection the**Author cannot be a reviewer or scribe**
+
 
 The diff b/w walkthrough and tech review is, walk through led by author and anyone can perform review. The main focus is to educate the stakeholder/reviewer. Where as the tech review is led by moderator and the main objective is to discuss and decide on a technical issue.
 

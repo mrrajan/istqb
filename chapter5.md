@@ -36,25 +36,25 @@ Test plan includes,
 ### Tester's contribution to Release planning and Iteration planning
 
 Release planning,
-    - Looks ahead to the release of the product
-    - Defines and redefines the Product backlog
-    - May used to refine large user stories into smaller ones
-    - Basis for test approach and test plan across all iterations
-    - Tester's contribution towards,
-        - Writing testable user stories and define acceptance criteria
-        - Participate in Project and quality risk analyses
-        - Estimate test effort for user stories
-        - Determine test approach and test plan for the release
+- Looks ahead to the release of the product
+- Defines and redefines the Product backlog
+- May used to refine large user stories into smaller ones
+- Basis for test approach and test plan across all iterations
+- Tester's contribution towards,
+    - Writing testable user stories and define acceptance criteria
+    - Participate in Project and quality risk analyses
+    - Estimate test effort for user stories
+    - Determine test approach and test plan for the release
 
 Iteration planning,
-    - Looks ahead to the end of the iteration
-    - Associated with Iteration backlog
-    - Tester's involved in,
-        - Detailed risk analysis of user stories
-        - Determine the testability of user stories
-        - Break down user stories into testing tasks
-        - Estimate test effort for all testing tasks
-        - Identify and refine functional and non-functional objectives
+- Looks ahead to the end of the iteration
+- Associated with Iteration backlog
+- Tester's involved in,
+    - Detailed risk analysis of user stories
+    - Determine the testability of user stories
+    - Break down user stories into testing tasks
+    - Estimate test effort for all testing tasks
+    - Identify and refine functional and non-functional objectives
 
 ### Entry and Exit Criteria
 
@@ -149,20 +149,20 @@ Risk:
  - Higher the risk level the more important is its treatment
 
 Types of risks in Software:
-    - Project Risks: Related to management and control of the project. This includes,
-        - Organizational Risks (Delays in work product delivery, inaccurate estimates, cost-cutting)
-        - People issues (insufficient skills, conflicts, communication problems, shortage of staff)
-        - Technical issues (scope creep, poor tool support)
-        - Supplier issues (third party delivery failure, bankruptcy of supplier company)
-    - Product Risks: Related to Product quality. Examples,
-        - missing or wrong functionality, incorrect calculations, runtime error, poor architecture, inefficient algorithms, inadequate response time, poor user experience, security vulnerabilities
-        - In would result in negative consequences like,
-            - User dissatisfaction
-            - Loss of revenue, trust, reputation
-            - Damage to third parties
-            - High maintenance costs, overload of helpdesk
-            - Criminal penalties
-            - In extreme cases, physical damage, injuries or even death.
+- Project Risks: Related to management and control of the project. This includes,
+    - Organizational Risks (Delays in work product delivery, inaccurate estimates, cost-cutting)
+    - People issues (insufficient skills, conflicts, communication problems, shortage of staff)
+    - Technical issues (scope creep, poor tool support)
+    - Supplier issues (third party delivery failure, bankruptcy of supplier company)
+- Product Risks: Related to Product quality. Examples,
+    - missing or wrong functionality, incorrect calculations, runtime error, poor architecture, inefficient algorithms, inadequate response time, poor user experience, security vulnerabilities
+    - In would result in negative consequences like,
+        - User dissatisfaction
+        - Loss of revenue, trust, reputation
+        - Damage to third parties
+        - High maintenance costs, overload of helpdesk
+        - Criminal penalties
+        - In extreme cases, physical damage, injuries or even death.
 ### Product Risk Analysis:
  - From testing point of view, The testing effort should be focused to provide awareness of a risk to minimize the residual level of a risk.
  - It should be in early cycles of SDLC
@@ -233,10 +233,12 @@ Types of risks in Software:
  - An established defect management process is essential
  - Anomalies can be reported on any stages and any of form of SDLC
  - Log the reported anomalies, Analyze and classify - Find fix or keep it as it is and finally close the Defect Report
+ 
  Defect report should have,
  - Responsible person to handle and fix the issue reported with sufficient information about the issue
  - Provide means of tracking the quality of the product
  - Provide ideas for improvements on test and development process
+
  A Defect report logged with dynamic testing includes,
  - Unique ID
  - Title in short summary about the defect
@@ -250,4 +252,3 @@ Types of risks in Software:
  - Status of the defect
  - References
 
- 
